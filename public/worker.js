@@ -1,8 +1,8 @@
 const CACHE_NAME = 'covid-19';
 const urlsToCache = [
     '/',
-  'https://corona.lmao.ninja/v2/all',
-  'https://corona.lmao.ninja/v2/countries',
+  ' https://corona.lmao.ninja/v2/all',
+  ' https://corona.lmao.ninja/v2/countries',
   'index.html'
     
 ];
